@@ -10,7 +10,7 @@ cbDavid.retirar(200);
 System.out.print("El saldo actual de"+cbDavid.getTitular() +" es de: "+cbDavid.getSaldo());
 System.out.print(cbDavid.toString());
 	}
-System.out.print("Holaaaaa");
 }
 
  
+
