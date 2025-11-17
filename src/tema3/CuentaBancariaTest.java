@@ -4,6 +4,7 @@ public class CuentaBancariaTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//ggwhf ghfsf sgfhaefb nhsgfh
 CuentaBancaria cbDavid=new CuentaBancaria("David Fernandez", 1000);
 cbDavid.ingresar(500);
 cbDavid.retirar(200);
@@ -11,5 +12,5 @@ System.out.print("El saldo actual de"+cbDavid.getTitular() +" es de: "+cbDavid.g
 System.out.print(cbDavid.toString());
 	}
 }
-//ggwhf ghfsf sgfhaefb nhsgfh
+
  
