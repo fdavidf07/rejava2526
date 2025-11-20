@@ -6,7 +6,6 @@ public class EjercicioTriangulo {
 	pintarTriangulo();
 	}
 	private static void pintarTriangulo() {
-		//5- pintar salto de linea
 		//1- declaro variable para numero de filas
 		int filas=5;
 		//2- primer for desde 1 hastael numero de filas

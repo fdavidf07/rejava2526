@@ -1,0 +1,15 @@
+package tema4;
+public class Loro extends Aves {
+ private String origen;
+
+ public Loro(String nombre, int anyoNacimiento, boolean pico, boolean vuela, String origen) {
+	super(nombre, anyoNacimiento, pico, vuela);
+	this.origen = origen;
+ }
+
+ @Override
+ public String toString() {
+	return "Loro [origen=" + origen + super.toString()+"]";
+ }
+ 
+}
