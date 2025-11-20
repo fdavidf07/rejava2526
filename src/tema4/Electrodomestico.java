@@ -38,7 +38,7 @@ public class Electrodomestico {
 
 
 	public double ConsumoAnual() {
-		double HorasAnyo= this.horas*7*52;// 7 dias semanales 52 semanas al año
+		double HorasAnyo= this.horas*3*52;// 7 dias semanales 52 semanas al año
 		double Consumo;
 		// horas * potencia entre 1000 * preEner
 		Consumo=(HorasAnyo *(this.potencia/1000)* this.preEner);
