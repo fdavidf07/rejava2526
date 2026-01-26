@@ -1,8 +1,10 @@
 package pio.daw.dfg.tema6;
+
 import java.util.Arrays;
+
 public class Ejercicio9Notas {
-	
-	 public static void main(String[] args) {
+
+	public static void main(String[] args) {
 	        double[][] notas = new double[4][5];
 	        String[] nombresAlumnos = {"Turing", "Lovelace", "Berners-Lee", "Gates"};
 	        String[] nombresAsignaturas = {"BBDD", "Programación", "Entornos", "Marcas", "Sostenibilidad"};
@@ -26,12 +28,11 @@ public class Ejercicio9Notas {
 	        }
 	    }
 
-	 private static double generarNotaAleatoria() {
-		 
-	 }
+	private static double generarNotaAleatoria() {
 
-	    // --- MÉTODOS de cálculos ---
-	 
 	}
-	}
+
+	// --- MÉTODOS de cálculos ---
+	double randomNumber = Math.random() * 10 + 1;
 }
+
