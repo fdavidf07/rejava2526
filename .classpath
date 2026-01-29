@@ -8,6 +8,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/GameLibrary"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/GameLibrary2"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="ArrayMatriz"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
