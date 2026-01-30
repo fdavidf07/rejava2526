@@ -1,10 +1,11 @@
-package pio.daw.dfg.tema6.matrizreto;
+package ArrayMatriz.pio.daw.dfg.tema6.matrizreto;
 
 import java.util.Scanner;
 
+import ArrayMatriz.pio.daw.dfg.tema6.matrizreto.interfazSombra;
+
 public class SolucionDFG implements interfazSombra {
 
-	@Override
 	public void resolver() {
 		// TODO Auto-generated method stub
 		String[][] matriz;

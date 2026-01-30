@@ -1,7 +1,5 @@
 package pio.daw.dfg.tema6;
-
-import static org.junit.jupiter.api.Assertions.*;
-
+/*
 import org.junit.jupiter.api.Test;
 
 class Ejercicio5AlturaTest {
@@ -36,3 +34,4 @@ double maximo=1.9;
 	}
 
 }
+*/

@@ -1,4 +1,4 @@
-package pio.daw.dfg.tema6.set;
+package ArrayMatriz.pio.daw.dfg.tema6.set;
 
 public class Alumno implements Comparable<Alumno> {
 

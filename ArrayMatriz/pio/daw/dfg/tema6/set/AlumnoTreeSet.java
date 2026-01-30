@@ -1,4 +1,4 @@
-package pio.daw.dfg.tema6.set;
+package ArrayMatriz.pio.daw.dfg.tema6.set;
 
 import java.util.TreeSet;
 
